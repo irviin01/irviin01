@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Irvin Carranza
 
-<!--
-**irviin01/irviin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Licenciatura en Redes Informáticas en la Universidad Tecnológica de Panamá.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante interesado en la tecnología, la programación y el desarrollo de soluciones informáticas. Me gusta aprender nuevas herramientas y adquirir conocimientos que me ayuden a crecer profesionalmente.
+
+## 🛠️ Tecnologías y habilidades
+
+* 🗄️ Bases de datos (si las has estudiado)
+* 🤝 Trabajo en equipo
+* 🧠 Resolución de problemas
+
+## 📚 Actualmente estoy aprendiendo
+
+* Desarrollo de proyectos
+* Herramientas tecnológicas
+
+## 📫 Contacto
+
+* Correo: [carranzairvin01@gmail.com](mailto:carranzairvin01@gmail.com)
+* Ubicación: Panamá
+
+---
+
+¡Gracias por visitar mi perfil! 😊
